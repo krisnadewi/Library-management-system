@@ -1,0 +1,47 @@
+header{
+    padding: 10px;
+}
+header h1{
+    font-size: 25px;
+}
+header img{
+    width: 15%;
+}
+li a{
+    color: #3831d6;
+}
+nav{
+    background-color:white;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    padding: 15px;
+}
+#c1 img{
+    float: left;
+    width:100%;
+    padding: auto;
+    position: relative;
+}
+#c2 h2{
+    color: #3831d6;
+    font-size: 50px;
+    position: relative;
+}
+#c2 button{
+    color: white;
+    border: none;
+    border-radius: 20px;
+    background-color: #3831d6;
+    padding: 12px 28px;
+    margin-top: 60px;
+    box-shadow: 0 6px 14px 0 rgba(0,0,0,0.2), 0 4px 18px 0 rgba(0,0,0,0.19);
+}
+
+footer{
+    margin-top: 50px;
+    clear: both;
+    background-color: #e2e2f7;
+    padding: 15px;
+}
